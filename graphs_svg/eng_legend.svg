@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="main-svg"
+   width="849"
+   height="450"
+   version="1.1"
+   id="svg182"
+   sodipodi:docname="eng_legend.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata186">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     id="namedview184"
+     showgrid="false"
+     inkscape:zoom="0.94614052"
+     inkscape:cx="666.43356"
+     inkscape:cy="230.23794"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g176" />
+  <defs
+     id="topdefs-682c3d">
+    <clipPath
+       id="legend682c3d">
+      <rect
+         width="88"
+         height="48"
+         x="0"
+         y="0"
+         id="rect114" />
+    </clipPath>
+  </defs>
+  <g
+     class="infolayer"
+     id="g176">
+    <g
+       class="g-gtitle"
+       id="g120">
+      <text
+         class="gtitle"
+         data-unformatted="End Title"
+         x="592.55115"
+         y="114.47245"
+         style="font-weight:normal;font-size:17px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:middle;white-space:pre;visibility:inherit;opacity:1;fill:#444444"
+         id="text118">End Title</text>
+    </g>
+    <g
+       class="g-xtitle"
+       data-bb="29"
+       id="g122" />
+    <g
+       class="g-ytitle"
+       data-bb="36"
+       id="g124" />
+    <g
+       class="legend"
+       pointer-events="all"
+       transform="matrix(5.0835756,0,0,5.0835756,241.79578,148.61857)"
+       id="g174">
+      <rect
+         class="bg"
+         style="fill:#ffffff;fill-opacity:1;stroke:#444444;stroke-width:0px;stroke-opacity:1;shape-rendering:crispEdges"
+         width="88"
+         height="48"
+         x="0"
+         y="0"
+         id="rect126" />
+      <g
+         class="scrollbox"
+         clip-path="url(#legend682c3d)"
+         id="g170">
+        <g
+           class="groups"
+           id="g168">
+          <g
+             class="traces"
+             style="opacity:1"
+             transform="translate(0,14.5)"
+             id="g146">
+            <g
+               class="layers"
+               style="opacity:1"
+               id="g140">
+              <g
+                 class="legendfill"
+                 id="g128" />
+              <g
+                 class="legendlines"
+                 id="g132">
+                <path
+                   class="js-line"
+                   d="M 5,0 H 35"
+                   style="fill:none;stroke:#1f77b4;stroke-width:2px;stroke-opacity:1"
+                   id="path130"
+                   inkscape:connector-curvature="0" />
+              </g>
+              <g
+                 class="legendsymbols"
+                 id="g138">
+                <g
+                   class="legendpoints"
+                   id="g136">
+                  <path
+                     class="scatterpts"
+                     transform="translate(20)"
+                     d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+                     style="opacity:1;fill:#1f77b4;fill-opacity:1;stroke-width:0px"
+                     id="path134"
+                     inkscape:connector-curvature="0" />
+                </g>
+              </g>
+            </g>
+            <text
+               class="legendtext user-select-none"
+               x="40"
+               y="4.6799998"
+               data-unformatted="Second"
+               style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:start;white-space:pre;visibility:inherit;fill:#444444;fill-opacity:1"
+               data-bb="42"
+               id="text142">Second</text>
+            <rect
+               class="legendtoggle"
+               pointer-events="all"
+               style="fill:#000000;fill-opacity:0"
+               x="0"
+               y="-9.5"
+               width="128"
+               height="19"
+               id="rect144" />
+          </g>
+          <g
+             class="traces"
+             style="opacity:1"
+             transform="translate(0,33.5)"
+             id="g166">
+            <g
+               class="layers"
+               style="opacity:1"
+               id="g160">
+              <g
+                 class="legendfill"
+                 id="g148" />
+              <g
+                 class="legendlines"
+                 id="g152">
+                <path
+                   class="js-line"
+                   d="M 5,0 H 35"
+                   style="fill:none;stroke:#ff7f0e;stroke-width:2px;stroke-opacity:1"
+                   id="path150"
+                   inkscape:connector-curvature="0" />
+              </g>
+              <g
+                 class="legendsymbols"
+                 id="g158">
+                <g
+                   class="legendpoints"
+                   id="g156">
+                  <path
+                     class="scatterpts"
+                     transform="translate(20)"
+                     d="M 3,0 A 3,3 0 1 1 0,-3 3,3 0 0 1 3,0 Z"
+                     style="opacity:1;fill:#ff7f0e;fill-opacity:1;stroke-width:0px"
+                     id="path154"
+                     inkscape:connector-curvature="0" />
+                </g>
+              </g>
+            </g>
+            <text
+               class="legendtext user-select-none"
+               x="40"
+               y="4.6799998"
+               data-unformatted="First"
+               style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;text-anchor:start;white-space:pre;visibility:inherit;fill:#444444;fill-opacity:1"
+               data-bb="43"
+               id="text162">First</text>
+            <rect
+               class="legendtoggle"
+               pointer-events="all"
+               x="0"
+               y="-9.5"
+               width="128"
+               height="19"
+               style="fill:#000000;fill-opacity:0"
+               id="rect164" />
+          </g>
+        </g>
+      </g>
+      <rect
+         class="scrollbar"
+         rx="20"
+         ry="2"
+         width="0"
+         height="0"
+         style="fill:#808ba4;fill-opacity:1"
+         id="rect172"
+         x="0"
+         y="0" />
+    </g>
+  </g>
+  <g
+     class="zoomlayer"
+     id="g178" />
+  <g
+     class="hoverlayer"
+     id="g180" />
+</svg>
